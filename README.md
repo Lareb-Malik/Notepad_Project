@@ -1,5 +1,4 @@
 # Notepad_Project
-NOTEPAD PROJECT
 This project has been designed using java swing ,awt,keyHandlers, UndoManager, filling and arrays to use data structures in this project.This project shows an improved notepad version which has some similar functionalities as of Microsoft windows notepad. It provides functionalities like new, open, save, select, select all, copy, paste, save as, edit, search word, word wrap,set font styles, set font size and help. It also had prediction functionality which will helps the user to write text more efficiently.
 
 ABOUT PREDICTION
@@ -23,7 +22,7 @@ Import the project in IDE .Open the Gui_1.java andclick on run menu in IDE the n
 
 Java Notepad
 When java program is run, it displays an improved version of notepad on the screen which can be used for different purposes.
-
+YouTube link for project demonstration: https://youtu.be/IKhSEDBgUO4
 
 BY Lareb Saleem
 Student of BSCS III at Sukkur-IBA,Pakistan
